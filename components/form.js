@@ -1,4 +1,6 @@
 // components/form.js
+"use client";
+
 import { useReducer } from "react";
 import { BiPlus } from "react-icons/bi";
 
